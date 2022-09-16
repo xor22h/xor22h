@@ -1,16 +1,14 @@
-### Hi there 👋
+My name is Julius and I live in small but brave country - Lithuania 🇱🇹. Currently working as a DevOps specialist, managing K8S Clusters. Also have lot's of experience with mobile-app development.
 
-<!--
-**xor22h/xor22h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+❤️ Open Source \
+💻 MacOS & Apple fan \
+🎯 Always learning something new \
+👶 Dad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+
+Server side: PHP, GoLang, JAVA \
+Mobile: Swift, Dart (Flutter), Java \
+Kubernetes
