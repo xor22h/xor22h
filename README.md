@@ -1,13 +1,22 @@
-My name is Julius and I live in small country - Lithuania 🇱🇹. Currently working as a Solution Architect for a product which simplifies managing K8S Clusters. Also have lot's of experience with mobile-app development.
+<div align="center">
+  <h1> Hi there 👋 <br>My name is Julius Lisauskas</h1>
+</div>
 
-### About me:
+---
 
-❤️ Open Source \
-💻 MacOS & Apple fan \
-🎯 Always learning something new
+[![Github](https://img.shields.io/github/followers/xor22h?label=Follow&style=social)](https://github.com/xor22h)
 
-### Languages & Tools
+#### I'm a DevOps Engineer living in Kaunas, Lithuania. Currently working as a Solution Architect at [ViaviSolutions](https://viavisolutions.com).
 
-Server side: GoLang, PHP, JAVA \
-Mobile: Swift, Dart (Flutter), Java \
-Kubernetes
+##### BIO
+
+- ⚙️&nbsp;&nbsp; I use daily: `.go`, `.java`, `.tf`, `.sh`, `.sql`
+- 🌱&nbsp;&nbsp; Learning all about **Open Source** & **Cloud-Native**
+- 💬&nbsp;&nbsp; Ping me about **linux**, **Docker**, **Kubernetes**, **development**, **DevOPS**
+- ⚡️&nbsp;&nbsp; In my free time I love to fly with Drones. 
+- 📫&nbsp;&nbsp; How to reach me via [email], [threads], or [linkedin].
+
+[email]: mailto:julius@lisauskas.lt
+[threads]: https://treads.com/xor22h
+[linkedin]: https://www.linkedin.com/in/juliuslisauskas/
+[youtube]: https://youtube.com/@xor22h
