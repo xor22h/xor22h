@@ -17,6 +17,6 @@
 - 📫&nbsp;&nbsp; How to reach me via [email], [threads], or [linkedin].
 
 [email]: mailto:julius@lisauskas.lt
-[threads]: https://treads.com/xor22h
+[threads]: https://threads.net/xor22h
 [linkedin]: https://www.linkedin.com/in/juliuslisauskas/
 [youtube]: https://youtube.com/@xor22h
