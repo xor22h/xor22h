@@ -6,9 +6,11 @@
 
 [![Github](https://img.shields.io/github/followers/xor22h?label=Follow&style=social)](https://github.com/xor22h)
 
-#### I'm a DevOps Engineer living in Kaunas, Lithuania. Currently working as a Solution Architect at [ViaviSolutions](https://viavisolutions.com).
+## I'm a DevOps Engineer living in Kaunas, Lithuania. 
 
-##### BIO
+Currently working as a Solution Architect at [ViaviSolutions](https://viavisolutions.com).
+
+## BIO
 
 - ⚙️&nbsp;&nbsp; I use daily: `.go`, `.java`, `.tf`, `.sh`, `.sql`
 - 🌱&nbsp;&nbsp; Learning all about **Open Source** & **Cloud-Native**
