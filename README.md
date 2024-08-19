@@ -14,7 +14,7 @@
 - 🌱&nbsp;&nbsp; Learning all about **Open Source** & **Cloud-Native**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **Docker**, **Kubernetes**, **development**, **DevOPS**, **Infrastructure as code**
 - ⚡️&nbsp;&nbsp; In my free time I love to fly with drones. 
-- 📫&nbsp;&nbsp; How to reach me via [email], [threads], or [linkedin].
+- 📫&nbsp;&nbsp; You can reach me via [email], [threads], or [linkedin].
 
 [email]: mailto:julius@lisauskas.lt
 [threads]: https://threads.net/xor22h
