@@ -12,7 +12,7 @@ Currently working as a Solution Architect at [ViaviSolutions](https://viavisolut
 
 ## BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.go`, `.java`, `.tf`, `.sh`, `.sql`
+- ⚙️&nbsp;&nbsp; Most common files in my IDE: `.go`, `.java`, `.tf`, `.sh`, `.sql`
 - 🌱&nbsp;&nbsp; Learning all about **Open Source** & **Cloud-Native**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **Docker**, **Kubernetes**, **development**, **DevOPS**, **Infrastructure as code**
 - ⚡️&nbsp;&nbsp; In my free time I love to fly with drones. 
