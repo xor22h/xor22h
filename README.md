@@ -1,24 +1,39 @@
 <div align="center">
-  <h1> Hi there 👋 <br>My name is Julius Lisauskas</h1>
+  <h1>👋 Hi there, I'm Julius Lisauskas</h1>
+  <p><em>Senior DevOps / Software Engineer | Certified Kubernetes Administrator | Docker Captain</em></p>
 </div>
 
 ---
 
 [![Github](https://img.shields.io/github/followers/xor22h?label=Follow&style=social)](https://github.com/xor22h)
 
-## I'm a DevOps Engineer living in Kaunas, Lithuania. 
+## 🚀 About Me
 
-Currently working as a Solution Architect at [ViaviSolutions](https://viavisolutions.com).
+I'm a **Senior DevOps / Software Engineer** at [Helmes](https://helmes.com), based in Kaunas, Lithuania. With 15 years of self-taught experience, I architect cloud-native solutions and build robust infrastructure.
 
-## BIO
+## 💻 Tech Stack & Skills
 
-- ⚙️&nbsp;&nbsp; Most common files in my IDE: `.go`, `.java`, `.tf`, `.sh`, `.sql`
-- 🌱&nbsp;&nbsp; Learning all about **Open Source** & **Cloud-Native**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **Docker**, **Kubernetes**, **development**, **DevOPS**, **Infrastructure as code**
-- ⚡️&nbsp;&nbsp; In my free time I love to fly with drones. 
-- 📫&nbsp;&nbsp; You can reach me via [email], [threads], or [linkedin].
+- ⚙️ **Languages**: `.go`, `.java`, `.php`, `.dart` (Flutter), `.rs` (Rust), `.sh`, `.sql`, `.tf`
+- 🐳 **DevOps**: Docker (Docker Captain), Kubernetes (CKA certified), Infrastructure as Code
+- ☁️ **Focus Areas**: Cloud-Native Architecture, Open Source, CI/CD, Linux Systems
+- 🌱 **Currently Exploring**: Advanced Kubernetes patterns, Rust in production
 
-[email]: mailto:julius@lisauskas.lt
-[threads]: https://threads.net/xor22h
-[linkedin]: https://www.linkedin.com/in/juliuslisauskas/
-[youtube]: https://youtube.com/@xor22h
+## 🎯 What I'm Passionate About
+
+- 💬 Always happy to discuss **Linux**, **Docker**, **Kubernetes**, **development**, **DevOps**, and **Infrastructure as Code**
+- 🛠️ Contributing to **Open Source** projects
+- 📸 Photography and drone flying in my downtime
+
+## 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/Email-julius@lisauskas.lt-red?style=flat&logo=gmail" />](mailto:julius@lisauskas.lt)
+[<img src="https://img.shields.io/badge/LinkedIn-juliuslisauskas-blue?style=flat&logo=linkedin" />](https://www.linkedin.com/in/juliuslisauskas/)
+[<img src="https://img.shields.io/badge/Threads-@xor22h-black?style=flat&logo=threads" />](https://threads.net/xor22h)
+[<img src="https://img.shields.io/badge/Bluesky-@xor22h.dev-1DA1F2?style=flat&logo=bluesky" />](https://bsky.app/profile/xor22h.dev)
+[<img src="https://img.shields.io/badge/YouTube-@xor22h-red?style=flat&logo=youtube" />](https://youtube.com/@xor22h)
+
+---
+
+<div align="center">
+  <sub>🎯 15 years in tech • ☁️ Cloud-Native enthusiast • 🚁 Drone pilot</sub>
+</div>
